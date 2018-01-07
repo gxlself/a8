@@ -1,7 +1,7 @@
 {
   "follows"   :  [
     {
-      "titile"    : "热门篮球球队点击关注",
+      "title"    : "热门篮球球队点击关注",
       "content"   : [
         {
           "src"   : "../src/assets/body/follow/follow_01.png",

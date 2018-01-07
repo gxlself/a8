@@ -1,0 +1,162 @@
+{
+  "pers" : [
+    {
+      "portrait" : "../src/assets/body/live/hot/live-hot_05.png",
+      "nickname" : "等你吃鸡",
+      "add"      : {
+        "isShow" : false,
+        "content": "未知"
+      },
+      "star"     : 1,
+      "type"     : "体育主播",
+      "watchers" : 121,
+      "cover"    : "../src/assets/body/live/hot/live-hot_08.png",
+      "isBigV"   : true
+    },
+    {
+      "portrait" : "../src/assets/body/live/hot/live-hot_11.png",
+      "nickname" : "垂钓小助手",
+      "add"      : {
+        "isShow" : false,
+        "content": "未知"
+      },
+      "star"     : 1,
+      "type"     : "快乐垂钓",
+      "watchers" : 33553,
+      "cover"    : "../src/assets/body/live/hot/live-hot_14.png",
+      "isBigV"   : true
+    },
+    {
+      "portrait" : "../src/assets/body/live/hot/live-hot_16.png",
+      "nickname" : "乒羽小助手",
+      "add"      : {
+        "isShow" : false,
+        "content": "未知"
+      },
+      "star"     : 1,
+      "type"     : "先锋乒羽",
+      "watchers" : 32631,
+      "cover"    : "../src/assets/body/live/hot/live-hot_19.png",
+      "isBigV"   : true
+    }
+  ],
+  "fields"       : [
+    {
+      "portrait" : "../src/assets/body/live/show/show_03.png",
+      "nickname" : "嘉嘉求宠爱❤",
+      "add"      : {
+        "isShow" : true,
+        "content": "未知"
+      },
+      "star"     : null,
+      "type"     : null,
+      "watchers" : null,
+      "cover"    : "../src/assets/body/live/show/show_03.png",
+      "isBigV"   : true
+    },
+    {
+      "portrait" : "../src/assets/body/live/show/show_05.png",
+      "nickname" : "倾听者",
+      "add"      : {
+        "isShow" : true,
+        "content": "未知"
+      },
+      "star"     : null,
+      "type"     : null,
+      "watchers" : null,
+      "cover"    : "../src/assets/body/live/show/show_05.png",
+      "isBigV"   : true
+    },
+    {
+      "portrait" : "../src/assets/body/live/show/show_09.png",
+      "nickname" : "学会温柔润妹",
+      "add"      : {
+        "isShow" : true,
+        "content": "三门峡市"
+      },
+      "star"     : null,
+      "type"     : null,
+      "watchers" : null,
+      "cover"    : "../src/assets/body/live/show/show_09.png",
+      "isBigV"   : true
+    },
+    {
+      "portrait" : "../src/assets/body/live/show/show_10.png",
+      "nickname" : "翩翩起舞",
+      "add"      : {
+        "isShow" : true,
+        "content": "大同"
+      },
+      "star"     : null,
+      "type"     : null,
+      "watchers" : null,
+      "cover"    : "../src/assets/body/live/show/show_10.png",
+      "isBigV"   : true
+    },
+    {
+      "portrait" : "../src/assets/body/live/show/show_13.png",
+      "nickname" : "七岁就很萌",
+      "add"      : {
+        "isShow" : true,
+        "content": "北京"
+      },
+      "star"     : null,
+      "type"     : null,
+      "watchers" : null,
+      "cover"    : "../src/assets/body/live/show/show_13.png",
+      "isBigV"   : true
+    },
+    {
+      "portrait" : "../src/assets/body/live/show/show_14.png",
+      "nickname" : "三岁静",
+      "add"      : {
+        "isShow" : true,
+        "content": "上海"
+      },
+      "star"     : null,
+      "type"     : null,
+      "watchers" : null,
+      "cover"    : "../src/assets/body/live/show/show_14.png",
+      "isBigV"   : true
+    },
+    {
+      "portrait" : "../src/assets/body/live/show/show_17.png",
+      "nickname" : "美文秀",
+      "add"      : {
+        "isShow" : true,
+        "content": "深圳"
+      },
+      "star"     : null,
+      "type"     : null,
+      "watchers" : null,
+      "cover"    : "../src/assets/body/live/show/show_17.png",
+      "isBigV"   : true
+    },
+    {
+      "portrait" : "../src/assets/body/live/show/show_18.png",
+      "nickname" : "漂亮的小姐姐",
+      "add"      : {
+        "isShow" : true,
+        "content": "太原"
+      },
+      "star"     : null,
+      "type"     : null,
+      "watchers" : null,
+      "cover"    : "../src/assets/body/live/show/show_18.png",
+      "isBigV"   : true
+    },
+    {
+      "portrait" : "../src/assets/body/live/show/show_21.png",
+      "nickname" : "随风而逝",
+      "add"      : {
+        "isShow" : true,
+        "content": "贵州"
+      },
+      "star"     : null,
+      "type"     : null,
+      "watchers" : null,
+      "cover"    : "../src/assets/body/live/show/show_21.png",
+      "isBigV"   : true
+    }
+  ]
+}

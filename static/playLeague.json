@@ -1,0 +1,118 @@
+{
+  "myLeagues" : [
+    {
+      "type" : "我的联赛",
+      "mainInfo" : [
+        {
+          "myLeaImg"  : "../src/assets/body/play/league/league_03.png",
+          "myLeaName" : "综合体育",
+          "myLeaInfo" : "今天有4场比赛",
+          "news"      : true,
+          "newsInfo" : [
+            {
+              "src"   : "../src/assets/body/play/league/league_11.png",
+              "title" : "体育新闻",
+              "info"  : "18:00开始",
+              "flag"  : true
+            },
+            {
+              "src"   : "../src/assets/body/play/league/league_13.png",
+              "title" : "冠军欧洲-世预赛前瞻",
+              "info"  : "18:35开始",
+              "flag"  : false
+            }
+          ]
+        },
+        {
+          "myLeaImg"  : "../src/assets/body/play/league/league_17.png",
+          "myLeaName" : "NBA",
+          "myLeaInfo" : "今天有5场比赛",
+          "nbaParts"  : true,
+          "nbaPartsInfo" : [
+            {
+              "src"   : "../src/assets/body/play/league/league_22.png",
+              "name"  : "活塞",
+              "score" : 114,
+              "low"   : false
+            },
+            {
+              "src"   : "../src/assets/body/play/league/league_20.png",
+              "name"  : "魔术",
+              "score" : 112,
+              "low"   : false
+            },
+            {
+              "src"   : "../src/assets/body/play/league/league_27.png",
+              "name"  : "步行者",
+              "score" : 97,
+              "low"   : true
+            },
+            {
+              "src"   : "../src/assets/body/play/league/league_26.png",
+              "name"  : "尼克斯",
+              "score" : 99,
+              "low"   : true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "moreParts" : [
+    {
+      "src"   : "../src/assets/body/play/league/league_38.png",
+      "name"  : "英超",
+      "content" : "下一场比赛将在2017年11月18日开始"
+    },
+    {
+      "src"   : "../src/assets/body/play/league/league_40.png",
+      "name"  : "CBA",
+      "content" : "下一场比赛将在2017年11月22日开始"
+    },
+    {
+      "src"   : "../src/assets/body/play/league/league_43.png",
+      "name"  : "西甲",
+      "content" : "下一场比赛将在2017年11月18日开始"
+    },
+    {
+      "src"   : "../src/assets/body/play/league/league_46.png",
+      "name"  : "中超",
+      "content" : "下一场比赛将在2017年11月11日开始"
+    },
+    {
+      "src"   : "../src/assets/body/play/league/league_48.png",
+      "name"  : "德甲",
+      "content" : "下一场比赛将在2017年11月18日开始"
+    },
+    {
+      "src"   : "../src/assets/body/play/league/league_51.png",
+      "name"  : "意甲",
+      "content" : "下一场比赛将在2017年11月19日开始"
+    },
+    {
+      "src"   : "../src/assets/body/play/league/league_55.png",
+      "name"  : "欧冠",
+      "content" : "下一场比赛将在2017年11月22日开始"
+    },
+    {
+      "src"   : "../src/assets/body/play/league/league_59.png",
+      "name"  : "法甲",
+      "content" : "下一场比赛将在2017年11月18日开始"
+    },
+    {
+      "src"   : "../src/assets/body/play/league/league_62.png",
+      "name"  : "足协杯",
+      "content" : "目前暂无比赛消息"
+    },
+    {
+      "src"   : "../src/assets/body/play/league/league_64.png",
+      "name"  : "亚冠",
+      "content" : "目前暂无比赛消息"
+    },
+    {
+      "src"   : "../src/assets/body/play/league/league_67.png",
+      "name"  : "中甲",
+      "content" : "目前暂无比赛消息"
+    }
+  ]
+}

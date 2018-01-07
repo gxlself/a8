@@ -1,0 +1,139 @@
+{
+	"guess":[
+		{
+			"src"     : "../src/assets/body/home/guess/guess_03.png",
+			"info"	  : "金州勇士继续保持强势,活塞生猛主场不留机会",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : "复盘"
+			},
+			"time"		: "1小时前",
+			"like"	  : "890",
+			"comment" : "96",
+			"them" 	 	: {
+				"isHas" : true,
+				"content" : "竞彩"
+			}
+		},
+		{
+			"src"     : "../src/assets/body/home/guess/guess_13.png",
+			"info"	  : "国际友谊赛,冰岛以和为贵",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : "复盘"
+			},
+			"time"		: "1小时前",
+			"like"	  : "760",
+			"comment" : "0",
+			"them" 	 	: {
+				"isHas" : true,
+				"content" : "竞彩"
+			}
+		},
+		{
+			"src"     : "../src/assets/body/home/guess/guess_15.png",
+			"info"	  : "周三彩经,弗拉门戈VS克鲁塞罗,帕丘卡VS提华纳",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : "复盘"
+			},
+			"time"		: "1小时前",
+			"like"	  : "125",
+			"comment" : "4",
+			"them" 	 	: {
+				"isHas" : true,
+				"content" : "竞彩"
+			}
+		},
+		{
+			"src"     : "../src/assets/body/home/guess/guess_17.png",
+			"info"	  : "【NBA常规赛推荐】有人说NBA的历史就是湖凯交锋史",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : "复盘"
+			},
+			"time"		: "1小时前",
+			"like"	  : "62",
+			"comment" : "7",
+			"them" 	 	: {
+				"isHas" : true,
+				"content" : "竞彩"
+			}
+		},
+		{
+			"src"     : "../src/assets/body/home/guess/guess_19.png",
+			"info"	  : "【周三竞彩推荐】8倍大奶奉上,看到了是缘分",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : "复盘"
+			},
+			"time"		: "1小时前",
+			"like"	  : "890",
+			"comment" : "9",
+			"them" 	 	: {
+				"isHas" : true,
+				"content" : "竞彩"
+			}
+		},
+		{
+			"src"     : "../src/assets/body/home/guess/guess_21.png",
+			"info"	  : "周三009:目标坚定 桑托斯上\"马\"取分",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : "复盘"
+			},
+			"time"		: "1小时前",
+			"like"	  : "190",
+			"comment" : "5",
+			"them" 	 	: {
+				"isHas" : true,
+				"content" : "竞彩"
+			}
+		},
+		{
+			"src"     : "../src/assets/body/home/guess/guess_23.png",
+			"info"	  : "自古01出下盘,今晚上赛事推荐",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : "复盘"
+			},
+			"time"		: "",
+			"like"	  : "820",
+			"comment" : "9",
+			"them" 	 	: {
+				"isHas" : true,
+				"content" : "竞彩"
+			}
+		},
+		{
+			"src"     : "../src/assets/body/home/guess/guess_25.png",
+			"info"	  : "周二彩经,维冈竞技VS阿克灵顿,剑桥联VS彼得堡村",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : "复盘"
+			},
+			"time"		: "2小时前",
+			"like"	  : "88",
+			"comment" : "1",
+			"them" 	 	: {
+				"isHas" : true,
+				"content" : "竞彩"
+			}
+		},
+		{
+			"src"     : "../src/assets/body/home/guess/guess_27.png",
+			"info"	  : "【NBA常规赛】雷霆力止颓势,灰熊开拓者难解难分",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : "复盘"
+			},
+			"time"		: "2小时前",
+			"like"	  : "90",
+			"comment" : "9",
+			"them" 	 	: {
+				"isHas" : true,
+				"content" : "竞彩"
+			}
+		}
+	]
+}

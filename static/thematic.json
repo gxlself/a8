@@ -1,0 +1,147 @@
+{
+	"first":[
+		{
+			"src"  	  : "../src/assets/body/home/thematic/them_13.png",
+			"time"		: "8小时前",
+			"like"  	: "800",
+      "comment" : "4",
+      "flag"    : true,
+			"exact"   : {
+				"isHas"   : true,
+				"content" : "体育秀场"
+			}
+		}
+	],
+	"second":[
+		{
+			"src"  	  : "../src/assets/body/home/thematic/them_23.png",
+			"time"		: "昨天07:29",
+			"like"  	: "755",
+      "comment" : "9",
+      "flag"    : true,
+			"exact"   : {
+				"isHas"   : true,
+				"content" : "天下足球"
+			}
+		},
+		{
+			"src"  	  : "../src/assets/body/home/thematic/them_25.png",
+			"time"		: "昨天09:15",
+			"like"  	: "889",
+      "comment" : "50",
+      "flag"    : true,
+			"exact"   : {
+				"isHas"   : true,
+				"content" : "天下足球"
+			}
+		}
+	],
+	"one" : [
+		{
+			"src"     : "../src/assets/body/home/thematic/them_16.png",
+			"info"	  : "国际友谊赛,冰岛以和为贵",
+			"them" 	 	: {
+				"isHas" : true,
+				"content" : "竞彩"
+			},
+			"time"		: "1小时前",
+			"like"	  : "469",
+			"comment" : "2",
+			"exact"   : {
+				"isHas"   : true,
+				"content" : "狗哥看盘"
+			}
+		},
+		{
+			"src"     : "../src/assets/body/home/thematic/them_19.png",
+			"info"	  : "国周三009: 目标坚定 桑托斯上\"马\"取分",
+			"them" 	 	: {
+				"isHas" : true,
+				"content" : "竞彩"
+			},
+			"time"		: "1小时前",
+			"like"	  : "699",
+			"comment" : "0",
+			"exact"   : {
+				"isHas"   : true,
+				"content" : "一壶米"
+			}
+		},
+		{
+			"src"     : "../src/assets/body/home/thematic/them_21.png",
+			"info"	  : "开奖公告:现金大奖花落谁家,5位幸运儿已诞生",
+			"them" 	 	: {
+				"isHas" : true,
+				"content" : "竞彩"
+			},
+			"time"		: "1小时前",
+			"like"	  : "890",
+			"comment" : "9",
+			"exact"   : {
+				"isHas"   : true,
+				"content" : "活动专区"
+			}
+		}
+	],
+	"two":[
+		{
+			"src"     : "../src/assets/body/home/thematic/them_27.png",
+			"info"	  : "掘金篇:米尔赛普来投 锋线崛起",
+			"them" 	 	: {
+				"isHas" : false,
+				"content" : "深度"
+			},
+			"time"		: "5小时前",
+			"like"	  : "200",
+			"comment" : "9",
+			"exact"   : {
+				"isHas"   : true,
+				"content" : "NBA巡礼"
+			}
+		},
+		{
+			"src"     : "../src/assets/body/home/thematic/them_30.png",
+			"info"	  : "射手本色:莱万多夫斯基足球之路(下)",
+			"them" 	 	: {
+				"isHas" : true,
+				"content" : "深度"
+			},
+			"time"		: "5小时前",
+			"like"	  : "280",
+			"comment" : "11",
+			"exact"   : {
+				"isHas"   : true,
+				"content" : "翻译官"
+			}
+		},
+		{
+			"src"     : "../src/assets/body/home/thematic/them_32.png",
+			"info"	  : "枪手战蓝月亮:同传控足球 不同流派的碰撞",
+			"them" 	 	: {
+				"isHas" : true,
+				"content" : "深度"
+			},
+			"time"		: "6小时前",
+			"like"	  : "375",
+			"comment" : "96",
+			"exact"   : {
+				"isHas"   : true,
+				"content" : "复盘"
+			}
+		}
+  ],
+  "carousel" : [
+    {
+      "src"   : "../src/assets/body/home/thematic/them_03.png",
+      "title" : "篮球实战教学"
+    },
+    {
+      "src"   : "../src/assets/body/home/thematic/them_05.png",
+      "title" : "模仿帝"
+    },
+    {
+      "src"   : "../src/assets/body/home/thematic/them_07.png",
+      "title" : "脚裸终结者"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "detail":[
+      {
+        "clock"   : "12:33",
+        "day"     : "今天",
+        "handle"  : "任务",
+        "modify"  : "+1000",
+        "residue" : "1100"
+      },
+      {
+        "clock"   : "15:39",
+        "day"     : "昨天",
+        "handle"  : "新用户",
+        "modify"  : "+100",
+        "residue" : "100"
+      }
+    ]
+}

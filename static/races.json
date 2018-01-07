@@ -1,0 +1,48 @@
+{
+  "races" : [
+    {
+      "serial"  : "#竞足  009#",
+      "serCon"  : "足球友谊赛",
+      "footOneIco" : "../src/assets/body/play/races/race_03.png",
+      "footTwoIco" : "../src/assets/body/play/races/race_06.png",
+      "footOneName"   : "罗马尼亚",
+      "footTwoName"   : "土耳其",
+      "playTime"      : "02:15开始",
+      "disclose"      : "罗马尼亚无缘世界杯",
+      "like"          : 1728
+    },
+    {
+      "serial"  : "#竞足  010#",
+      "serCon"  : "足球友谊联赛",
+      "footOneIco" : "../src/assets/body/play/races/race_08.png",
+      "footTwoIco" : "../src/assets/body/play/races/race_10.png",
+      "footOneName"   : "伊朗",
+      "footTwoName"   : "巴拿马",
+      "playTime"      : "02:30开始",
+      "disclose"      : "巴拿马世界排名上升11位",
+      "like"          : 12222
+    },
+    {
+      "serial"  : "#竞足  004#",
+      "serCon"  : "世预赛欧洲赛区附加赛首回合",
+      "footOneIco" : "../src/assets/body/play/races/race_12.png",
+      "footTwoIco" : "../src/assets/body/play/races/race_14.png",
+      "footOneName"   : "克朗地亚",
+      "footTwoName"   : "希腊",
+      "playTime"      : "03:45开始",
+      "disclose"      : "马诺拉斯因洗牌被停赛",
+      "like"          : 1837
+    },
+    {
+      "serial"  : "#竞足  003#",
+      "serCon"  : "世界赛欧洲你区附加赛首回合",
+      "footOneIco" : "../src/assets/body/play/races/race_17.png",
+      "footTwoIco" : "../src/assets/body/play/races/race_21.png",
+      "footOneName"   : "北爱尔兰",
+      "footTwoName"   : "瑞士",
+      "playTime"      : "02:30开始",
+      "disclose"      : "北爱尔兰的争夺之战",
+      "like"          : 1222
+    }
+  ]
+}

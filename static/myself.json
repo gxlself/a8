@@ -1,0 +1,84 @@
+{
+  "menus" : [
+    {
+      "src"     : "../src/assets/body/myself/myself_10.png",
+      "content" : " 1100"
+    },
+    {
+      "src"     : "../src/assets/body/myself/myself_12.png",
+      "content" : "参与竞猜"
+    },
+    {
+      "src"     : "../src/assets/body/myself/myself_14.png",
+      "content" : "金币任务"
+    },
+    {
+      "src"     : "../src/assets/body/myself/myself_16.png",
+      "content" : "礼品兑换"
+    }
+  ],
+  "gridOne":[
+		{
+			"name":"数据排行",
+			"src" :"../src/assets/body/myself/myself_28.png" ,
+			"bottomInfo": "掌握各大球队数据资料",
+			"borderRight":true
+		},
+		{
+			"name":"我的预约",
+			"src" :"../src/assets/body/myself/myself_30.png" ,
+			"bottomInfo": "精彩不容错过",
+			"borderRight":false
+		},
+		{
+			"name":"设置",
+			"src" :"../src/assets/body/myself/myself_33.png" ,
+			"bottomInfo": "定义个性化服务",
+			"borderRight":true
+		},
+		{
+			"name":"自定义",
+			"src" :"../src/assets/body/myself/myself_34.png" ,
+			"bottomInfo": "添加更多高清播放器",
+			"borderRight":false
+		},
+		{
+			"name":"意见反馈",
+			"src" :"../src/assets/body/myself/myself_40.png" ,
+			"bottomInfo": "小A会给您及时答复",
+			"borderRight":true
+		},
+		{
+			"name":"分享我们",
+			"src" :"../src/assets/body/myself/myself_38.png" ,
+			"bottomInfo": "谢谢你对我们的肯定",
+			"borderRight":false
+		}
+	],
+	"gridTwo":[
+		{
+			"name":"足球Q群",
+			"src" :"../src/assets/body/myself/myself_44.png" ,
+			"bottomInfo": "624073460",
+			"borderRight":true
+		},
+		{
+			"name":"篮球Q群",
+			"src" :"../src/assets/body/myself/myself_47.png" ,
+			"bottomInfo": "603931936",
+			"borderRight":false
+		},
+		{
+			"name":"竞彩Q群",
+			"src" :"../src/assets/body/myself/myself_51.png" ,
+			"bottomInfo": "561892328",
+			"borderRight":true
+		},
+		{
+			"name":"加入直播录群",
+			"src" :"../src/assets/body/myself/myself_52.png" ,
+			"bottomInfo": "374537839",
+			"borderRight":false
+		}
+	]
+}

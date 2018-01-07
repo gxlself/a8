@@ -1,0 +1,183 @@
+{
+	"hotNews1":[
+		{
+			"src"	  : "../src/assets/body/home/hot/home_hot_19.png",
+      "info"	  : "【战报】骑士124-119送雄鹿四连败,字母哥空砍40+9",
+			"like"    : "453",
+			"comment" : "0",
+      "exact"   : {
+				"isHas"   : false,
+				"content" : "A8早报"
+			},
+			"them" 	 	: {
+				"isHas" : true,
+        "content" : "置顶",
+        "res":true
+			}
+		},
+		{
+			"src"     : "../src/assets/body/home/hot/home_hot_22.png",
+			"info"    : "【战报】双塔合 鹈鹕117-112逆转步行者取三连胜",
+			"like"	  : "273",
+			"comment" : "1",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : "A8早报"
+			},
+			"them" 	 	: {
+				"isHas" : true,
+        "content" : "置顶",
+        "res":true
+			}
+		}
+	],
+	"hotNews2" : [
+		{
+			"src"     : "../src/assets/body/home/hot/home_hot_34.png",
+			"info"    : "官方:中国杯明年3月南宁开打",
+			"like"	  : "455",
+			"comment" : "0",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : "A8早报"
+			},
+			"them" 	 	: {
+				"isHas" : true,
+        "content" : "置顶",
+        "res":true
+			}
+		},
+		{
+			"src"     : "../src/assets/body/home/hot/home_hot_37.png",
+			"info"	  : "'琦还公',走上人生巅峰",
+			"like"	  : "1.2万",
+			"comment" : "34",
+			"exact"   : {
+				"isHas"   : true,
+				"content" : "A8早报"
+			},
+			"them" 	 	: {
+				"isHas" : true,
+        "content" : "置顶",
+        "res":true
+			}
+		},
+		{
+			"src"     : "../src/assets/body/home/hot/home_hot_39.png",
+			"info"	  : "克劳德:赢家从不言放弃,轻言放弃绝不会赢",
+			"like"	  : "532",
+			"comment" : "2",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : "A8早报"
+			},
+			"them" 	 	: {
+				"isHas" : false,
+        "content" : "置顶",
+        "res":true
+			}
+		},
+		{
+			"src"     : "../src/assets/body/home/hot/home_hot_41.png",
+			"info"	  : "吉诺比利:就长期发展来说,伦纳德缺阵也是好事",
+			"like"	  : "726",
+			"comment" : "4",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : "A8早报"
+			},
+			"them" 	 	: {
+				"isHas" : false,
+        "content" : "置顶",
+        "res":true
+			}
+		},
+		{
+			"src"     : "../src/assets/body/home/hot/home_hot_43.png",
+			"info"	  : "耐克将为字母哥设计签名鞋,阿迪李宁曾参与争夺",
+			"like"	  : "533",
+			"comment" : "1",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : "A8早报"
+			},
+			"them" 	 	: {
+				"isHas" : false,
+        "content" : "置顶",
+        "res":true
+			}
+		},
+		{
+			"src"     : "../src/assets/body/home/hot/home_hot_45.png",
+			"info"	  : "小里弗斯:保罗和格里芬之间关系很奇怪,不懂谁是老大",
+			"like"	  : "536",
+			"comment" : "4",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : "A8早报"
+			},
+			"them" 	 	: {
+				"isHas" : false,
+        "content" : "置顶",
+        "res":true
+			}
+		},
+		{
+			"src"     : "../src/assets/body/home/hot/home_hot_47.png",
+			"info"	  : "布莱索评基德投三分:棒棒哒教练!",
+			"like"	  : "119",
+			"comment" : "6",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : "A8早报"
+			},
+			"them" 	 	: {
+				"isHas" : false,
+        "content" : "置顶",
+        "res":true
+			}
+		}
+  ],
+  "nbaParts": [
+    {
+      "flag":true,
+      "srcOne":"../src/assets/body/home/hot/home_hot_05.png",
+      "srcTwo":"../src/assets/body/home/hot/home_hot_12.png",
+      "troopOneName":"骑士",
+      "troopTwoName":"雄鹿",
+      "troopOneScore":124,
+      "troopTwoScore":119
+    },
+    {
+      "flag":false,
+      "srcOne":"../src/assets/body/home/hot/home_hot_07.png",
+      "srcTwo":"../src/assets/body/home/hot/home_hot_11.png",
+      "troopOneName":"马刺",
+      "troopTwoName":"快船",
+      "troopOneScore":52,
+      "troopTwoScore":55
+    }
+  ],
+  "sports":[
+    {
+      "src":"../src/assets/body/home/hot/home_hot_24.png",
+      "content":"等你吃鸡",
+      "title":"没有标题也很精彩哦"
+    },
+    {
+      "src":"../src/assets/body/home/hot/home_hot_26.png",
+      "content":"垂钓小助手",
+      "title":"没有标题也很精彩哦"
+    },
+    {
+      "src":"../src/assets/body/home/hot/home_hot_13.png",
+      "content":"乒羽小助手",
+      "title":"没有标题也很精彩哦"
+    },
+    {
+      "src":"../src/assets/body/home/hot/home_hot_24.png",
+      "content":"速度小助手",
+      "title":"没有标题也很精彩哦"
+    }
+  ]
+}

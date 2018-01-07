@@ -1,0 +1,94 @@
+{
+  "follows"   :  [
+    {
+      "titile"    : "热门篮球球队点击关注",
+      "content"   : [
+        {
+          "src"   : "../src/assets/body/follow/follow_01.png",
+          "name"  : "勇士"
+        },
+        {
+          "src"   : "../src/assets/body/follow/follow_04.png",
+          "name"  : "骑士"
+        },
+        {
+          "src"   : "../src/assets/body/follow/follow_02.png",
+          "name"  : "火箭"
+        },
+        {
+          "src"   : "../src/assets/body/follow/follow_05.png",
+          "name"  : "雷霆"
+        },
+        {
+          "src"   : "../src/assets/body/follow/follow_03.png",
+          "name"  : "马刺"
+        },
+        {
+          "src"   : "../src/assets/body/follow/follow_09.png",
+          "name"  : "湖人"
+        },
+        {
+          "src"   : "../src/assets/body/follow/follow_06.png",
+          "name"  : "快船"
+        },
+        {
+          "src"   : "../src/assets/body/follow/follow_07.png",
+          "name"  : "公牛"
+        },
+        {
+          "src"   : "../src/assets/body/follow/follow_08.png",
+          "name"  : "热火"
+        },
+        {
+          "src"   : "../src/assets/body/follow/follow_10.png",
+          "name"  : "猛龙"
+        }
+      ]
+    },
+    {
+      "title"     : "热门足球球队点击关注",
+      "content"   : [
+        {
+          "src"   : "../src/assets/body/follow/follow_11.png",
+          "name"  : "皇家马..."
+        },
+        {
+          "src"   : "../src/assets/body/follow/follow_14.png",
+          "name"  : "巴塞罗那"
+        },
+        {
+          "src"   : "../src/assets/body/follow/follow_12.png",
+          "name"  : "曼联"
+        },
+        {
+          "src"   : "../src/assets/body/follow/follow_13.png",
+          "name"  : "广州恒大"
+        },
+        {
+          "src"   : "../src/assets/body/follow/follow_15.png",
+          "name"  : "拜仁慕..."
+        },
+        {
+          "src"   : "../src/assets/body/follow/follow_17.png",
+          "name"  : "阿森纳"
+        },
+        {
+          "src"   : "../src/assets/body/follow/follow_16.png",
+          "name"  : "切尔西"
+        },
+        {
+          "src"   : "../src/assets/body/follow/follow_18.png",
+          "name"  : "曼城"
+        },
+        {
+          "src"   : "../src/assets/body/follow/follow_19.png",
+          "name"  : "马德里..."
+        },
+        {
+          "src"   : "../src/assets/body/follow/follow_20.png",
+          "name"  : "利物浦"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+	"videos" : [
+		{
+			"src"  	 : "../src/assets/body/home/video/video_03.png",
+			"time"		: "半小时前",
+			"like"  	: "273",
+			"comment" : "0",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : "测试数据"
+      },
+      "flag":true
+		},
+		{
+			"src"  	 : "../src/assets/body/home/video/video_06.png",
+			"time"		: "半小时前",
+			"like"  	: "196",
+			"comment" : "8",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : ""
+			},
+      "flag":true
+		},
+		{
+			"src"  	 : "../src/assets/body/home/video/video_08.png",
+			"time"		: "半小时前",
+			"like"  	: "299",
+			"comment" : "1",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : ""
+			},
+      "flag":true
+		},
+		{
+			"src"  	 : "../src/assets/body/home/video/video_10.png",
+			"time"		: "半小时前",
+			"like"  	: "273",
+			"comment" : "1",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : ""
+			},
+      "flag":true
+		},
+		{
+			"src"  	 : "../src/assets/body/home/video/video_12.png",
+			"time"		: "一小时前",
+			"like"  	: "199",
+			"comment" : "5",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : ""
+			},
+      "flag":true
+		},
+		{
+			"src"  	 : "../src/assets/body/home/video/video_14.png",
+			"time"		: "二小时前",
+			"like"  	: "333",
+			"comment" : "1",
+			"exact"   : {
+				"isHas"   : false,
+				"content" : ""
+			},
+      "flag":true
+		}
+	]
+}

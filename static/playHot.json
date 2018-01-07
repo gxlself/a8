@@ -1,0 +1,161 @@
+{
+  "playData":[
+    {
+      "today" :"今天",
+      "content"       : [
+        {
+          "isTwo"     : {
+            "flag"    : false,
+            "src"     : "../src/assets/body/play/hot/hot_03.png",
+            "src1"    : "",
+            "src2"    : "",
+            "info1"   : "",
+            "info2"   : ""
+          },
+          "sportName" : "高尔夫",
+          "title"     : "蓝湾LPGA高尔夫大师赛",
+          "isLive"    : {
+            "flag"    : true,
+            "content" : "进行中",
+            "time"    : ""
+          },
+          "like"      : "1728",
+          "tv"        : "CCTV5"
+        },
+        {
+          "isTwo"     : {
+            "flag"    : false,
+            "src"     : "../src/assets/body/play/hot/hot_10.png",
+            "src1"    : "",
+            "src2"    : "",
+            "info1"   : "",
+            "info2"   : ""
+          },
+          "sportName" : "",
+          "title"     : "体育新闻",
+          "isLive"    : {
+            "flag"    : false,
+            "content" : "进行中",
+            "time"    : "18:00开始"
+          },
+          "like"      : "12222",
+          "tv"        : "CCTV5"
+        },
+        {
+          "isTwo"     : {
+            "flag"    : false,
+            "src"     : "../src/assets/body/play/hot/hot_12.png",
+            "src1"    : "",
+            "src2"    : "",
+            "info1"   : "",
+            "info2"   : ""
+          },
+          "sportName" : "",
+          "title"     : "冠军欧洲-世预赛前瞻",
+          "isLive"    : {
+            "flag"    : false,
+            "content" : "进行中",
+            "time"    : "18:35开始"
+          },
+          "like"      : "1837",
+          "tv"        : "CCTV5"
+        },
+        {
+          "isTwo"     : {
+            "flag"    : false,
+            "src"     : "../src/assets/body/play/hot/hot_14.png",
+            "src1"    : "",
+            "src2"    : "",
+            "info1"   : "",
+            "info2"   : ""
+          },
+          "sportName" : "排球",
+          "title"     : "中国男排联赛 上海VS湖北",
+          "isLive"    : {
+            "flag"    : false,
+            "content" : "进行中",
+            "time"    : "19:30开始"
+          },
+          "like"      : "1783",
+          "tv"        : "CCTV5"
+        },
+        {
+          "isTwo":{
+            "flag"    : false,
+            "src"     : "../src/assets/body/play/hot/hot_16.png",
+            "src1"    : "",
+            "src2"    : "",
+            "info1"   : "",
+            "info2"   : ""
+          },
+          "sportName" : "",
+          "title"     : "NBA最前线",
+          "isLive"    : {
+            "flag"    : false,
+            "content" : "进行中",
+            "time"    : "19:30开始"
+          },
+          "like"      : "5361",
+          "tv"        : "CCTV5"
+        },
+        {
+          "isTwo":{
+            "flag"    : true,
+            "src"     : "",
+            "src1"    : "../src/assets/body/play/hot/hot_18.png",
+            "src2"    : "../src/assets/body/play/hot/hot_21.png",
+            "info1"   : "福建",
+            "info2"   : "天津"
+          },
+          "sportName" : "CBA",
+          "title"     : "",
+          "isLive"    : {
+            "flag"    : false,
+            "content" : "进行中",
+            "time"    : "19:35开始"
+          },
+          "like"      : "1753",
+          "tv"        : "QQ直播"
+        },
+        {
+          "isTwo":{
+            "flag"    : true,
+            "src"     : "",
+            "src1"    : "../src/assets/body/play/hot/hot_23.png",
+            "src2"    : "../src/assets/body/play/hot/hot_25.png",
+            "info1"   : "芬兰",
+            "info2"   : "爱莎尼亚"
+          },
+          "sportName" : "足球友谊赛",
+          "title"     : "",
+          "isLive"    : {
+            "flag"    : false,
+            "content" : "进行中",
+            "time"    : "01:00开始"
+          },
+          "like"      : "6221",
+          "tv"        : ""
+        },
+        {
+          "isTwo":{
+            "flag"    : true,
+            "src"     : "",
+            "src1"    : "../src/assets/body/play/hot/hot_27.png",
+            "src2"    : "../src/assets/body/play/hot/hot_29.png",
+            "info1"   : "罗马尼亚",
+            "info2"   : "土耳其"
+          },
+          "sportName" : "足球友谊赛",
+          "title"     : "",
+          "isLive"    : {
+            "flag"    : false,
+            "content" : "进行中",
+            "time"    : "02:30开始"
+          },
+          "like"      : "7256",
+          "tv"        : ""
+        }
+      ]
+    }
+  ]
+}
